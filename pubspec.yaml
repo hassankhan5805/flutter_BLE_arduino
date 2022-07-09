@@ -26,6 +26,7 @@ dependencies:
   control_pad: ^1.1.1+1
   flutter_blue: ^0.8.0
   string_converter: ^0.0.5
+  flutter_bluetooth_serial: ^0.4.0
 
 
 dev_dependencies:
